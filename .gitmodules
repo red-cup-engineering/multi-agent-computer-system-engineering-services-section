@@ -1,0 +1,4 @@
+[submodule "multi-agent-computer-platform-engineering-services-section"]
+	path = services/multi-agent-computer-platform-engineering-services-section
+	url = https://github.com/red-cup-engineering/multi-agent-computer-platform-engineering-services-section.git
+	branch = main
