@@ -4,5 +4,9 @@
   "type": "module",
   "description": "Groups reusable computer-system apps constituted across multiple agents.",
   "license": "UNLICENSED",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/multi-agent-computer-system-engineering-services-section.git"
+  }
 }
