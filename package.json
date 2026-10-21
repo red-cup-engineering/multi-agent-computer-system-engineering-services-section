@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Groups reusable computer-system apps constituted across multiple agents.",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/multi-agent-computer-system-engineering-services-section.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
