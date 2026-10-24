@@ -28,10 +28,9 @@ explains the single-agent and multi-agent engineering boundaries.
 ## What exists today
 
 This repository has **no tracked top-level `apps/` directory**. An earlier
-introduction listed `apps/playing`, `apps/computing`,
-`apps/socializing`, and `apps/organizing` as applications here; that was
-an obsolete path inventory, not a working installation guide. The corresponding
-faculty source must be located and verified in its actual owning repository.
+introduction treated faculty names as installed applications at this root.
+That inventory was obsolete, not a working installation guide. Find the
+corresponding faculty source in its actual owning repository.
 
 The current submodule is a source composition. A checked-in pointer does not
 establish that the child is deployed, that multiple agents are operational,
